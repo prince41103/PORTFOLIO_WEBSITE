@@ -5,3 +5,5 @@
 *DOMAIN*:FRONT END DEVELOPER
 *DURATION*:6 WEEKS
 *MENTOR*: NEELAM SANTOSH
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/99137f99-8051-45ca-bf25-fbef7ae5af2d)
